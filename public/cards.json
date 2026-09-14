@@ -1,5 +1,14 @@
 {
   "title": "Finnish Verbs Pack",
+  "author": "sssleepyspencer",
+  "rotelyVersion": "1.0",
+  "metadata": {
+    "created": "2026-09-14T15:57:00Z",
+    "source": "custom",
+    "verified": true,
+    "language": "fi-en",
+    "cardCount": 30
+  },
   "cards": [
     {
       "front": "Saada / Saada valmiiksi / Saada kiinni",
