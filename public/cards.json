@@ -1,134 +1,103 @@
 {
-  "title": "Finnish Verbs Pack",
-  "author": "sssleepyspencer",
-  "rotelyVersion": "1.0",
-  "metadata": {
-    "created": "2026-09-14T15:57:00Z",
-    "source": "custom",
-    "verified": true,
-    "language": "fi-en",
-    "cardCount": 30
-  },
+  "aiEnabled": false,
+  "createdAt": "2026-09-14T13:00:16Z",
+  "hex": "#0088FF",
+  "name": "Finnish Verbs Pack",
+  "packAnswerLanguageCode": "en-GB",
+  "packAnswerTTSEnabled": false,
+  "packQuestionLanguageCode": "en-GB",
+  "packQuestionTTSEnabled": false,
+  "usePackLevelTTS": false,
   "cards": [
     {
-      "front": "Saada / Saada valmiiksi / Saada kiinni",
-      "back": "得到、收到；可以；使得\n把……做完/搞定\n抓住、联系上、理解"
+      "question": "Saada / Saada valmiiksi / Saada kiinni",
+      "answer": "得到、收到；可以；使得\n把……做完/搞定\n抓住、联系上、理解",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Pitää / Pitää huolta / Pitää tauko",
-      "back": "应该；喜欢；保持；举行\n照顾、照看（某人/物）\n休息一下、课间休息"
+      "question": "Pitää / Pitää huolta / Pitää tauko",
+      "answer": "应该；喜欢；保持；举行\n照顾、照看（某人/物）\n休息一下、课间休息",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Mennä / Miten menee? / Mennä pieleen",
-      "back": "走、去；进行、进展\n最近怎么样？/ 进展如何？\n搞砸了、失败了"
+      "question": "Mennä / Miten menee? / Mennä pieleen",
+      "answer": "走、去；进行、进展\n最近怎么样？/ 进展如何？\n搞砸了、失败了",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Tehdä / Tehdä mieli / Tehdä päätös",
-      "back": "做、制造\n想要、渴望（吃/做）\n做出决定"
+      "question": "Tehdä / Tehdä mieli / Tehdä päätös",
+      "answer": "做、制造\n想要、渴望（吃/做）\n做出决定",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Ottaa / Ottaa selvää / Ottaa päähän",
-      "back": "拿、取、接受、吃/喝\n查明、弄清楚（某事）\n让人极其恼火/抓狂"
+      "question": "Ottaa / Ottaa selvää / Ottaa päähän",
+      "answer": "拿、取、接受、吃/喝\n查明、弄清楚（某事）\n让人极其恼火/抓狂",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Päästä / Päästä eroon / Päästä läpi",
-      "back": "得以进入、到达、免于\n摆脱、除掉（某物/病）\n通过（考试、面试等）"
+      "question": "Päästä / Päästä eroon / Päästä läpi",
+      "answer": "得以进入、到达、免于\n摆脱、除掉（某物/病）\n通过（考试、面试等）",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Jäädä / Jäädä henkiin / Jäädä kiinni",
-      "back": "留下、保持、忘记、挂科\n幸存、活下来\n被抓住、被逮个正着"
+      "question": "Jäädä / Jäädä henkiin / Jäädä kiinni",
+      "answer": "留下、保持、忘记、挂科\n幸存、活下来\n被抓住、被逮个正着",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Tulla / Tulla toimeen / Tulla mieleen",
-      "back": "来、变成\n与某人相处融洽/能应付\n突然想到、记起"
+      "question": "Tulla / Tulla toimeen / Tulla mieleen",
+      "answer": "来、变成\n与某人相处融洽/能应付\n突然想到、记起",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Käydä / Käydä kaupassa / Se käy",
-      "back": "去一趟并回来；合适；运转\n去一趟商店（并回来）\n那行 / 没问题"
+      "question": "Käydä / Käydä kaupassa / Se käy",
+      "answer": "去一趟并回来；合适；运转\n去一趟商店（并回来）\n那行 / 没问题",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     },
     {
-      "front": "Panna / Panna merkille / Panna toimeen",
-      "back": "放、使、开始\n注意到、留意\n执行、实施"
-    },
-    {
-      "front": "Laittaa / Laittaa ruokaa / Laittaa kuntoon",
-      "back": "放、做饭、整理\n做饭\n整理好、修好"
-    },
-    {
-      "front": "Sanoa / Sanoa suoraan / Sanoa irti",
-      "back": "说、表达\n直说、坦白说\n解雇（人）；退订（服务）"
-    },
-    {
-      "front": "Katsoa / Katsoa läpi sormien / Katsoa eteenpäin",
-      "back": "看、认为\n视而不见、网开一面\n向前看"
-    },
-    {
-      "front": "Luulla / Luulla liikoja itsestään / Luulla väärin",
-      "back": "以为、猜测\n自视过高、自命不凡\n误会、想错了"
-    },
-    {
-      "front": "Kuulua / Mitä kuuluu? / Kuulua asiaan",
-      "back": "听起来；属于；听说\n你好吗？/ 有什么新闻？\n理所当然、是硬性标准"
-    },
-    {
-      "front": "Tuntua / Tuntua hyvältä / Minusta tuntuu siltä, että...",
-      "back": "感觉、似乎\n感觉不错、挺舒服的\n在我看来、我感觉……"
-    },
-    {
-      "front": "Kysyä / Kysyä neuvoa / Kysyä lupaa",
-      "back": "问\n寻求建议、请教\n请求许可、征求同意"
-    },
-    {
-      "front": "Vastata / Vastata puhelimeen / Vastata (mistä)",
-      "back": "回答；负责\n接电话\n对某事负责"
-    },
-    {
-      "front": "Alkaa / Alkaa sataa / Alkaa tehdä",
-      "back": "开始\n开始下雨\n开始做某事"
-    },
-    {
-      "front": "Auttaa / Auttaa (jossain) / Ei auta",
-      "back": "帮助\n帮助做某事\n没办法了 / 没用了"
-    },
-    {
-      "front": "Löytää / Löytää tiensä / Löytää perille",
-      "back": "找到、发现\n找到路、摸索到路径\n顺利找对地方并到达"
-    },
-    {
-      "front": "Antaa / Antaa periksi / Antaa anteeksi",
-      "back": "给、让、允许\n放弃、妥协\n原谅某人"
-    },
-    {
-      "front": "Vetää / Vetää henkeä / Vetää kurssi",
-      "back": "拉、吸引、主持\n深呼吸、歇口气\n主持/教授一门课程"
-    },
-    {
-      "front": "Lyödä / Lyödä vetoa / Lyödä lukkoon",
-      "back": "打、击、赌\n打赌\n敲定、最终确定（日期）"
-    },
-    {
-      "front": "Heittää / Heittää huulta / Heittää menemään",
-      "back": "扔、随口说\n开玩笑、闲聊、吹牛\n扔掉、抛弃"
-    },
-    {
-      "front": "Päättää / Päättää päivänsä / Päättää puheenvuoro",
-      "back": "决定；结束\n自杀（委婉）\n结束发言"
-    },
-    {
-      "front": "Hoitaa / Hoitaa homma / Hoitaa asioita",
-      "back": "照顾、处理、解决\n搞定任务、解决问题\n办事情、处理公务"
-    },
-    {
-      "front": "Joutua / Joutua pulaan / Joutua odottamaan",
-      "back": "不得不；陷入某境地\n陷入困境\n倒霉地不得不等待"
-    },
-    {
-      "front": "Kestää / En kestä enää! / Kestää aikaa",
-      "back": "持续；承受、忍受\n我再也无法忍受了\n需要时间 / 经得起考验"
-    },
-    {
-      "front": "Sopia / Sopia tapaaminen / Sopiiko se sinulle?",
-      "back": "适合；约定；和解\n约定见面时间\n你方便吗？/ 这适合你吗？"
+      "question": "Panna / Panna merkille / Panna toimeen",
+      "answer": "放、使、开始\n注意到、留意\n执行、实施",
+      "questionLanguageCode": "en-GB",
+      "answerLanguageCode": "en-GB",
+      "questionTTSEnabled": false,
+      "answerTTSEnabled": false,
+      "languageLearningEnabled": true
     }
   ]
 }
